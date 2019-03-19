@@ -1,0 +1,22 @@
+{
+  "name": "primera-entrega",
+  "version": "1.0.0",
+  "description": "Primera entrega curso de Node",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "awesome",
+    "balcero",
+    "aprendizaje"
+  ],
+  "author": "Juan Felipe Balcero Loaiza",
+  "license": "ISC"
+}
